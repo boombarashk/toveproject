@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/toveproject/static/css/main.63fd7781.css",
-    "main.js": "/toveproject/static/js/main.986c2941.js",
+    "main.js": "/toveproject/static/js/main.5625dab5.js",
     "index.html": "/toveproject/index.html",
     "main.63fd7781.css.map": "/toveproject/static/css/main.63fd7781.css.map",
-    "main.986c2941.js.map": "/toveproject/static/js/main.986c2941.js.map"
+    "main.5625dab5.js.map": "/toveproject/static/js/main.5625dab5.js.map"
   },
   "entrypoints": [
     "static/css/main.63fd7781.css",
-    "static/js/main.986c2941.js"
+    "static/js/main.5625dab5.js"
   ]
 }
