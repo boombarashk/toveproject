@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toveproject/static/css/main.63fd7781.css",
+    "main.js": "/toveproject/static/js/main.2ebac3fe.js",
+    "index.html": "/toveproject/index.html",
+    "main.63fd7781.css.map": "/toveproject/static/css/main.63fd7781.css.map",
+    "main.2ebac3fe.js.map": "/toveproject/static/js/main.2ebac3fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63fd7781.css",
+    "static/js/main.2ebac3fe.js"
+  ]
+}
