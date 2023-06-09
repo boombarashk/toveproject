@@ -1,0 +1,69 @@
+@import '~bulma/css/bulma.css';
+
+$small: 600px;
+$offset-label: 100px;
+$primary-color: #3273dc;
+$secondary-color: #ff9800;
+$font-size-small: 12px;
+$font-size-medium: 16px;
+$font-size-large: 24px;
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.contentChapter {
+  img {
+    float: left;
+    margin: 1em 1em 1em 0;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+}
+
+#root {
+  .tabs {
+    a.is-active {
+      border-bottom: 2px solid $primary-color;
+    }
+
+    a:hover {
+      color: $primary-color;
+    }
+  }
+
+  .is-invisible {
+    visibility: hidden;
+  }
+}
+
+.authForm {
+  max-width: 560px;
+
+  label {
+    width: $offset-label;
+
+    @media (max-width: $small) {
+      width: 100%;
+    }
+  }
+
+  .authForm-submit {
+    margin-left: $offset-label;
+
+    @media (max-width: $small) {
+      margin-left: 0;
+
+      button {
+        width: 100%;
+      }
+    }
+  }
+}
